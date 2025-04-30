@@ -13,7 +13,7 @@ function App() {
 
         <Container className="mt-4">
           <h1 className="mb-4">
-           Welcome to Hassan React App
+           Welcome to Hassans React App
           </h1>
 
           <div className="d-flex gap-4">
